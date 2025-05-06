@@ -1,0 +1,19 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "name": "uicdn-bootstrap",
+  "homepage": "https://uicdn-bootstrap.github.io",
+  "items": [
+    {
+      "name": "button",
+      "type": "registry:ui",
+      "title": "Button",
+      "description": "A simple Button component",
+      "files": [
+        {
+          "path": "./src/components/ui/button.tsx",
+          "type": "registry:file"
+        }
+      ]
+    }
+  ]
+}
