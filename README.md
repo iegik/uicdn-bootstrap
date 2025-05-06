@@ -16,7 +16,7 @@ import { Button } from "./src/components/ui/button"
 1. Install as dependency
 
 ```
-npm i "iegik/uicdn-bootstrap"
+npm i "uicdn-bootstrap"
 ```
 
 2. Copy js modules into your public directory:
